@@ -1,0 +1,2 @@
+Tools Used for Schematic Design
+The schematic diagrams for various CPU components were designed using the following platforms. The links are provided below.
