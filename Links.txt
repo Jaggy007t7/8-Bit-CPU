@@ -1,2 +1,11 @@
-Tools Used for Schematic Design
+Schematic Design Tools:-
 The schematic diagrams for various CPU components were designed using the following platforms. The links are provided below.
+
+1. Data-Path Design
+Platform: Digi‑Key Scheme‑It
+Link: https://www.digikey.com/en/schemeit/project/8-bit-cpu-a9bdd07afb534ccba2d374cfb7246b97
+
+2. Digital Computer Clock
+Platform: Tinkercad
+Link: https://www.tinkercad.com/things/7tqB3enwVgp-555-8bit-computer-clock?sharecode=RO1X_KGZzuz4IOZ1TihA3dVLuhf_fnK2XDvo-n5xYIc
+

@@ -20,6 +20,4 @@ always @(posedge clk or posedge clear)begin
         end
     end
 end
-
-
 endmodule
